@@ -87,7 +87,7 @@ const Footer = () => {
 
 
         <div className="container">
-            <p className="text-center mt-10 opacity-50">Copyright &copy; 2024 LightCode. All rights reserved.</p>
+            <p className="text-center mt-10 opacity-50">Copyright &copy; 2025 Indoore. All rights reserved.</p>
         </div>
 
         <div  className='absolute bottom-0 left-0 opacity-40 pointer-events-none'>
