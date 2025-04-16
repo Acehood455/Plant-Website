@@ -86,14 +86,13 @@ const Footer = () => {
         </div>
 
 
-        <div className="container">
+        <div data-aos="fade-down"
+        data-aos-easing="linear"
+        data-aos-duration="1000"className="container">
             <p className="text-center mt-10 opacity-50">Copyright &copy; 2024 LightCode. All rights reserved.</p>
         </div>
 
-        <div data-aos="fade-right"
-        data-aos-easing="linear"
-        data-aos-duration="700" 
-        data-aos-delay="500" className='absolute bottom-0 left-0 opacity-20 pointer-events-none'>
+        <div  className='absolute bottom-0 left-0 opacity-30 pointer-events-none'>
             <img src={floral1} alt="floral_image" className='w-full lg:w-1/2' />
         </div>
     </footer>
